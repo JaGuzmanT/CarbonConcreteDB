@@ -11,28 +11,22 @@ https://orcid.org/0000-0002-9309-9390
 *Researchers National System México*
 
 ## Description: 📝
-This dataset comprises detailed photographs of carbonation-induced damage in various concrete elements. It includes 1,200 images, divided into two groups: Carbonated samples and Uncarbonated samples. The images directly relate to prismatic elements  (5 cm x 5 cm x 5 cm) obtained under laboratory conditions.
+This dataset comprises detailed photographs of carbonation-induced damage in various concrete elements. It includes 1,200 images, divided into two groups: carbonated samples and Uncarbonated samples. The images directly relate to prismatic elements  (5 cm x 5 cm x 5 cm) obtained from various concrete elements under laboratory conditions.
 
 ## Project summary, description, or abstract: 📚
 
-The dataset aims to serve as a foundational resource for research on carbonation-induced damage in concrete structures. It provides a diverse set of data points for analyzing the impact of environmental conditions, concrete compositions, and protective measures on the rate and extent of carbonation damage. This dataset can be utilized for both empirical research and for training predictive models to estimate carbonation depth and corrosion initiation times.
+The dataset aims to serve as a foundational resource for research on carbonation-induced damage in concrete structures. It provides a diverse set of image data points for analyzing the impact of environmental conditions, concrete compositions, and protective measures on the rate and extent of carbonation damage. This dataset can be utilized for classification, detection, and segmentation problems. With this valuable information, Computer vision approaches might be applied to enhance the efficiency of damage evaluations and deprecate the subjectivity of visual evaluations.
 
-# The dataset includes the following columns: 🔬
+# The image dataset includes two categories: 🔬
 
-- Carbonation depth (mm)
-- pH level
-- Reinforcement corrosion rate (µm/year)
-- Environmental exposure condition
-- Concrete type
-- Age of concrete (years)
-- Visual damage rating
-Each row represents a distinct sample, with data collected from both laboratory experiments and field surveys.
+- Carbonated Samples
+- Uncarbonated samples
 
 # This dataset can advance research and practical applications in several areas: ✨
 
-- **Damage prediction**: Empowering the development of models to predict carbonation depth and corrosion initiation.
+- **Damage analysis**: Empowering the development of models to detect and localize damaged zones caused by the carbonation process might reduce the time-consuming tasks of visual inspection, avoid subjectivity, quantify the injured area over the concrete structures, and prevent corrosion initiation.
 
-- **Material science**: Facilitating the study of concrete formulations and their resistances to carbonation.
+- **Material science**: Facilitating the study of concrete damage and the facts that might produce the carbonation phenomena.
 
 ## Description of files: ✍️
 The repository contains a primary data file named `CarbonConcreteData.csv`, which contains the raw data. Additionally, a Jupyter notebook `DataAnalysis.ipynb` is provided for a basic analysis of the dataset.
