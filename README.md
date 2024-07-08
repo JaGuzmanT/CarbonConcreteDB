@@ -29,7 +29,9 @@ The dataset aims to serve as a foundational resource for research on carbonation
 - **Material science**: Facilitating the study of concrete damage and the facts that might produce the carbonation phenomena.
 
 ## Description of files: ✍️
-The repository contains a primary data file named `CarbonConcreteData.csv`, which contains the raw data. Additionally, a Jupyter notebook `DataAnalysis.ipynb` is provided for a basic analysis of the dataset.
+The repository contains two main folders: Carbonated_samples and __Uncarbonated_samples__.
+
+a primary data file named `CarbonConcreteData.csv`, which contains the raw data. Additionally, a Jupyter notebook `DataAnalysis.ipynb` is provided for a basic analysis of the dataset.
 
 Please cite the following paper if you use this dataset in your research:
 
