@@ -11,7 +11,7 @@ https://orcid.org/0000-0002-9309-9390
 *Researchers National System México*
 
 ## Description: 📝
-This dataset comprises detailed records of carbonation-induced damage in various concrete elements. It includes 2,500 observations, covering aspects such as carbonation depth, pH changes, reinforcement corrosion rates, and visual damage indicators. The data spans over a wide range of concrete types, environmental conditions, and exposure durations.
+This dataset comprises detailed photographs of carbonation-induced damage in various concrete elements. It includes 1,200 images, divided into two groups: Carbonated samples and Uncarbonated samples. The images directly relate to prismatic elements  (5 cm x 5 cm x 5 cm) obtained under laboratory conditions.
 
 ## Project summary, description, or abstract: 📚
 
